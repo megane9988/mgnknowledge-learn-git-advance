@@ -17,6 +17,9 @@ img{
 	margin: 0;
 	padding: 20px 0 0 0;
 }
+.site-header .header-logo{
+	width: 120px;
+}
 .menu{
 	display:flex;
 	justify-content: space-around;
